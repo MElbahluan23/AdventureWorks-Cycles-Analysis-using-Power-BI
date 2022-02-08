@@ -7,3 +7,5 @@ During this project I applied all these steps below :
 - Build a Relational Data Model
 - Add Calculated Fields with DAX
 - Design Interactive Power BI Reports
+
+![AdventureWorks Cycles Report I ](https://user-images.githubusercontent.com/65256556/153048073-057b39ca-923d-4c31-8254-c33fd2fa75a4.png)
